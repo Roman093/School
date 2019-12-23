@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace school
 {
-    class Auditoriya
+     class Auditoriya
     {
         public Auditoriya()
         {

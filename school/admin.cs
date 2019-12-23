@@ -6,8 +6,16 @@ using System.Threading.Tasks;
 
 namespace school
 {
-    class admin
+   public class admin
     {
+        List<Student> students = new List<Student>();
+        List<Auditoriya> mest1 = new List<Auditoriya>();
+       int mest = 16;
+        {
+if (People[2] < mest)
 
+            {
+            }
+        
     }
 }

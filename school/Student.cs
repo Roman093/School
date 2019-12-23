@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace school
 {
-    class Student
+    class Student : People
     {
         People[] data;
         public Student()

@@ -5,3 +5,7 @@ C:\Users\Роман\source\repos\school\school\bin\Debug\school.exe
 C:\Users\Роман\source\repos\school\school\bin\Debug\school.pdb
 C:\Users\Роман\source\repos\school\school\obj\Debug\school.exe
 C:\Users\Роман\source\repos\school\school\obj\Debug\school.pdb
+C:\Users\Тимофей\Desktop\School-master\school\obj\Debug\school.csprojAssemblyReference.cache
+C:\Users\Тимофей\Desktop\School-master\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\Desktop\School-master\school\obj\Debug\school.exe
+C:\Users\Тимофей\Desktop\School-master\school\obj\Debug\school.pdb

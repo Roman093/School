@@ -10,6 +10,12 @@ namespace school
     {
         static void Main(string[] args)
         {
+
+            List<Auditoriya> auditoriyas1 = new List<Auditoriya>();
+            List<Auditoriya> auditoriyas2 = new List<Auditoriya>();
+            List<Auditoriya> auditoriyas3 = new List<Auditoriya>();
+
+            
         }
     }
 }
