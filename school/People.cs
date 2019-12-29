@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace school
 {
-    class People
+    abstract class People
     {
+        public string FirstName { get; private set; }
+        public string LastName { get; private set; }
+
         public int Person { get; set; }
     }
 }
