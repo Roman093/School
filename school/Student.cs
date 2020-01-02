@@ -8,21 +8,6 @@ namespace school
 {
     class Student : People
     {
-        People[] data;
-        public Student()
-        {
-            data = new People[2];
-        }
-        public People this[int index]
-        {
-            get
-            {
-                return data[index];
-            }
-            set
-            {
-                data[index] = value;
+
             }
         }
-    }
-}
